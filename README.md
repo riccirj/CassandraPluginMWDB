@@ -1,0 +1,2 @@
+# CassandraPluginMWDB
+Cassandra Plugin forMWDB
